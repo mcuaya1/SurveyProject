@@ -1,2 +1,1 @@
-# SurveyProject
-CIS 17B C++ project. The survey project is used to allow a user to take and view surveys which are created by admins and instructors. The surveys contain a topic and several questions along with responses that users can choose.  
+The program allows users to create surveys for others to fill out. The current system allows users to create surveys with a specific topic and add a range of questions for this topic. This survey is then stored in a mock database, which administrators have access to view, remove questions from, and/or delete. Administrators also have access to users' passwords and surveys created.
